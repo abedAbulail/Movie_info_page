@@ -1,0 +1,205 @@
+body{
+    /* filter: grayscale(80%); */
+
+}
+.col{
+    
+    height: 25rem;
+    justify-content: center;
+        align-items: center;
+}
+.card{
+    position: relative;
+    height: 90%;
+    width: 90%;
+    border-radius: 30px;
+    background-color: rgb(66, 60, 55);
+    box-shadow: 0px 0px 25px rgb(0, 0, 0);
+    color: white;
+ 
+}
+.card h1{
+    font-size: 25px;
+}
+button{
+    position: absolute;
+    width: 120px;
+    bottom: 10px;
+    left: 30%;
+    
+    
+}
+h1{
+    text-align: center;
+    font-size: 3rem;
+
+
+}
+p{
+    text-align: center;
+        font-size: 3rem;
+}
+.firstone{
+    position: relative;
+    top: 0;
+    left: 0;
+ width: 100%;
+ height: 100%;
+ color: white;
+
+
+}
+.col{
+    background-color: rgb(43, 42, 42);
+}
+.first{
+    justify-content: center;
+    align-items: center; 
+    width: 100%;
+    background: rgb(0, 0, 0);
+        background-image: linear-gradient(85deg, rgba(0, 0, 0, 1) 0%, rgba(255, 255, 255, 0.30024509803921573) 100%), url("782445.jpg");
+        background-size: cover;
+
+
+    background-size: cover;
+overflow: hidden;
+    
+    height: 750px;
+}
+.firstone h1{
+    font-size: 5rem;
+    text-align: left;
+    margin-left: 20px;
+}
+.firstone p{
+    font-size: 1rem;
+        text-align: left;
+        margin-left: 20px;
+}
+.firstone button{
+    position: absolute;
+        width: 200px;
+        bottom: 300px;
+        left: 10px;
+}
+.firstend{
+    width: 100%;
+        height: 100%;
+        color: white;
+        box-shadow: 0px 0px 25px rgb(0, 30, 22);
+}
+
+.img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    border: 1px solid white;
+    background-image: url("pexels-andrea-piacquadio-3782826.jpg");
+    
+        background-size: cover;
+    margin: 10px;
+}
+.card h1 {
+    position: absolute;
+    text-align: end;
+    top: 40px;
+    right: 50px;
+}
+p{
+    text-align: center;
+}
+.mid{
+    position: relative;
+        height: 90%;
+        width: 90%;
+        justify-content: center;
+        align-items: center;
+        border-radius: 30px;
+        background-color: rgb(216, 103, 5);
+        box-shadow: 0px 0px 25px rgb(73, 16, 0);
+        color: rgb(0, 0, 0);
+}
+.MID{
+    background: rgb(0, 0, 0);
+    background: linear-gradient(85deg, rgba(0, 0, 0, 1) 0%, rgba(255, 255, 255, 1) 44%, rgba(0, 0, 0, 1) 76%, rgba(255, 255, 255, 1) 100%);
+    height: 500px;  
+    background-image: url("782448.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.MID2 {
+    background: rgb(0, 0, 0);
+    background: linear-gradient(85deg, rgba(0, 0, 0, 1) 0%, rgba(255, 255, 255, 1) 44%, rgba(0, 0, 0, 1) 76%, rgba(255, 255, 255, 1) 100%);
+    height: 500px;
+    
+    background-image: url("782465.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.mid1{
+    position: relative;
+        height: 90%;
+        width: 90%;
+        justify-content: center;
+        align-items: center;
+        border-radius: 30px;
+       
+        
+
+}
+.buttons{
+position: relative;
+width: 100%;
+height: 100px;
+align-items: center;
+
+}
+
+.b1{
+    position: absolute;
+    width: 120px;
+        bottom: 10px;
+        left: 35%;
+}
+.b2{
+    position: absolute;
+        width: 120px;
+        bottom: 10px;
+        left: 55%;
+}
+.firstb{
+    width: 400px;
+}
+.end1{
+    text-align: center;
+    margin-top: 30px;
+
+    
+}
+.end{
+    border-right: 1px solid black;
+}
+.imgicon{
+    filter: drop-shadow(0 0 0.25rem rgb(0, 0, 0));
+}
+.img1{
+    background-image: url("images.jpg");
+}
+
+.img2 {
+    background-image: url("iLeN3zd__400x400.jpg");
+}
+.img3 {
+    background-image: url("ab6761610000e5eb355720f7ef50ec4fef437e91.jpg");
+}
+.img4 {
+    background-image: url("_315x420_b43dce746ffaf50affdd4cb8c7b32b3b6dc097c7ca86f23930043d40494ecb12.jpg");
+}
+.img5 {
+    background-image: url("download (2).jpg");
+}
+.img6 {
+    background-image: url("download (1).jpg");
+}
